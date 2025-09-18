@@ -56,6 +56,7 @@ int main() {
 
     printf("After Push------------\n");
     //call printMemVec( ... ) on vec again to view the changes
+    
     printMemVec(vec);
     return 0;
 
