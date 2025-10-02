@@ -13,9 +13,10 @@ int main()
 
     // PRINT the same for p2
     printf("%s Current Stats\n", p2.getName().c_str());
+    printf("Hits Taken: %i\t Luck: %f\t Exp: %f\t Level: %i\n", p2.getHitsTaken(), p2.getLuck(), p2.getExp(), p2.getLevel());
     
     // CALL setHitsTaken(new_hit) on either p1 or p2
-    p1.setHitsTaken(1);
+    p1.setHitsTaken(3);
 
     
     cout << "\n p2 hits taken ";
@@ -24,8 +25,8 @@ int main()
     
     cout << "0 is dead, 1 is alive\n";
     // CALL isAlive() on both p1 and p2
-    cout << p1.isAlive() << endl;
-    cout << p2.isAlive() << endl;
+    cout <<"P1 " << p1.isAlive() << endl;
+    cout <<"P2 " << p2.isAlive() << endl;
 
     return 0;
 }
