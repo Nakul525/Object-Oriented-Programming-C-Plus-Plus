@@ -1,3 +1,4 @@
 **OUTPUT FOR THE PROGRAM**
 
-<img width="1124" height="771" alt="image" src="https://github.com/user-attachments/assets/7f8ea99f-8080-4e60-ba39-621a576f39f7" />
+<img width="911" height="463" alt="image" src="https://github.com/user-attachments/assets/cc8fd7a7-d7ab-4c52-9961-ba0c7c6065da" />
+
